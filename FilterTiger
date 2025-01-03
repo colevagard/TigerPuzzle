@@ -6,6 +6,6 @@
     "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
     "Linkinp": 
     [ 
-          { "Lang":"Russian", "Links": ["https://www.google.com/"]}
+          { "Lang":"Russian", "Links": [""]}
     ]
  }
